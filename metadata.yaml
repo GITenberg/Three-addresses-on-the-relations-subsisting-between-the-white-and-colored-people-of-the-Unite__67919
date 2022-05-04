@@ -1,0 +1,41 @@
+_repo: Three-addresses-on-the-relations-subsisting-between-the-white-and-colored-people-of-the-Unite__67919
+_version: 0.0.1
+alternative_title: 3 addresses on the relations subsisting between the white and colored
+  people of the United States
+creator:
+  author:
+    agent_name: Douglass, Frederick
+    aliases:
+    - Bailey, Frederick Augustus Washington
+    - Baly, Frederick Augustus Washington
+    - Douglas, Frederick
+    birthdate: 1818
+    deathdate: 1895
+    gutenberg_agent_id: '34510'
+    url: http://www.gutenberg.org/2009/agents/34510
+    wikipedia: https://en.wikipedia.org/wiki/Frederick_Douglass
+description: ''
+gutenberg_issued: '2022-04-25'
+identifiers:
+  gutenberg: '67919'
+  lccn: '34007727'
+language: en
+pgterms:marc904: https://archive.org/details/threeaddresseson00dougrich/page/n1/mode/2up
+pgterms:marc905: 20211209061327douglas
+pgterms:marc906: '1886'
+pgterms:marc907: US
+production_note: Steve Mattern, Chuck Greif and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: United States :Gibson Bros.,1886.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Race relations'
+- !lcc 'E151'
+- !lcsh 'African Americans -- Civil rights'
+- GITenberg
+title: Three addresses on the relations subsisting between the white and colored people
+  of the United States
+url: http://www.gutenberg.org/ebooks/67919
