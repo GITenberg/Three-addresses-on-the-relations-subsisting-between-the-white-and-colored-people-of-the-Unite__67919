@@ -2,6 +2,9 @@ _repo: Three-addresses-on-the-relations-subsisting-between-the-white-and-colored
 _version: 0.1.0
 alternative_title: 3 addresses on the relations subsisting between the white and colored
   people of the United States
+covers:
+- cover_type: archival
+  image_path: 67919-h/images/cover.jpg
 creator:
   author:
     agent_name: Douglass, Frederick
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34510
     wikipedia: https://en.wikipedia.org/wiki/Frederick_Douglass
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67919#Three-addresses-on-the-relations-subsisting-between-the-white-and-colored-people-of-the-Unite_
 gutenberg_issued: '2022-04-25'
 identifiers:
   gutenberg: '67919'
